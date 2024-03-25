@@ -1,6 +1,15 @@
 # RWBQuickRef
 A quick reference document for freeCodeCamp's Responsive Web Design.
 
+## Overview
+I recently completed freeCodeCamps Responsive Web Design Course. I took fairly extensive notes. I found these notes very useful for both revision and as a quick reference when attempting the certification projects. I decided to organise, tidy and improve my notes and share as a reference for others either doing the course or looking for revision materials.
+
+Content credit to freeCodeCamp. The quick reference covers everything they introduce. The notes are expanded using additional information from developers.mozilla and w3schools where I found that I needed more info during the course.
+
+You can view the html file by using the 'githack' URL modification on the raw file. As follows:
+
+https://raw.githack.com/dearestalexander/RWBQuickRef/main/rwb.html
+
 ## Contents
 
 rwb.md
